@@ -1,0 +1,96 @@
+.products-show1 {
+  margin-top: 0px;
+  display: flex;
+  height: 280px;
+  margin-bottom: 70px;
+  border-bottom: 1px solid #eeede9;
+  background: rgb(0, 36, 35);
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 36, 35, 1) 0%,
+    rgba(61, 96, 93, 0.12650997899159666) 100%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.product-box {
+  width: 340px;
+  height: 340px;
+  background-color: #ffffff;
+
+  padding-top: 15px;
+  padding-left: 5px;
+  margin-left: 41px;
+  margin-right: 20px;
+}
+
+.big-image {
+  width: 265px;
+  height: 253px;
+  margin-top: 11px;
+  margin-bottom: -7px;
+  margin-left: 2px;
+}
+.anchorOfProducts {
+  font-size: 15px;
+  color: #007185;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 16px;
+}
+.image-description {
+  color: black;
+}
+.short-square-imgs {
+  margin-bottom: 10px;
+  width: 110px;
+  height: 85px;
+  margin-right: 11px;
+  margin-top: 8px;
+}
+.short-images {
+  height: 85px;
+  width: 110px;
+  margin-right: 11px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.signin-laptop {
+  width: 380;
+  height: 300px;
+  margin-left: 34px;
+  margin-top: 51px;
+}
+
+.sign-in {
+  width: 350px;
+  background-color: #ffffff;
+  height: 115px;
+  padding-top: 15px;
+  padding-left: 5px;
+
+  margin-top: -51px;
+  margin-bottom: 10px;
+}
+.sign-btn {
+  width: 271px;
+  height: 35px;
+  border-radius: 7px;
+  margin-top: 7px;
+  background-color: #efd01b;
+  border: none;
+  color: #0f1111;
+  font-weight: 700;
+  font-size: 13.5px;
+
+  text-align: center;
+  padding-left: 11px;
+  padding-right: 10px;
+}
+
+.products-show2 {
+  margin-top: -70px;
+  display: flex;
+  height: 340px;
+  background-color: #eeeeee;
+  padding-top: 111px;
+}

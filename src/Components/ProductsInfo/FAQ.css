@@ -1,0 +1,37 @@
+.questionBox {
+  height: 120px;
+  width: 500px;
+  /* border: 1px solid black; */
+  display: flex;
+  padding: 2px;
+  font-size: 14px;
+  margin: 10px;
+}
+.votes {
+  margin: 2px;
+  border-right: 1px solid lightgray;
+  width: 100px;
+  text-align: center;
+}
+#vscTri {
+  font-size: 30px;
+  color: gray;
+}
+.votes h3 {
+  margin: 0px;
+  color: gray;
+}
+.Q-A {
+  margin: 2px;
+
+  /* border: 1px solid black; */
+  width: 100px;
+}
+.question-Ans {
+  margin: 2px;
+  /* border: 1px solid black; */
+  width: 280px;
+}
+.question-Ans h4 {
+  color: #007185;
+}

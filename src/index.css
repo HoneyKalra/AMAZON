@@ -1,0 +1,9 @@
+@font-face {
+  font-family: AmazonEmber_Rg;
+  src: url("../public/Webfonts/AmazonEmber_Rg.ttf");
+}
+
+* {
+  margin: 0px;
+  font-family: AmazonEmber_Rg;
+}

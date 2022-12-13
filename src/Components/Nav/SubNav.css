@@ -1,0 +1,30 @@
+.subnav {
+  background-color: #232f3e;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  color: #ffffff;
+  min-width: 41px;
+  max-width: 121px;
+  margin-left: 1px;
+  border: 1px solid transparent;
+  font-size: 15.9px;
+}
+a {
+  border: 1px solid transparent;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  border: 1px solid white;
+}
+
+.submenu {
+  display: flex;
+  gap: 13px;
+  height: 29px;
+  padding: 7px 15px;
+}

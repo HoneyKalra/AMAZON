@@ -1,0 +1,164 @@
+* {
+  color: black;
+}
+.check-out {
+  height: 100vh;
+  width: 100%;
+  /* border: 1px solid black; */
+  position: relative;
+}
+.check-out-nav {
+  background-color: #f3f0f0;
+  display: flex;
+  height: 60px;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+.check-out-nav h1 {
+  margin: 10px 180px;
+}
+.check-out-logo {
+  display: inline-block;
+  margin: 15px 200px;
+}
+.personal-info {
+  margin: 5px 90px;
+  border-bottom: 1px solid lightgray;
+  width: 960px;
+  height: 120px;
+  display: flex;
+}
+.check-out-head {
+  /* border: 1px solid black; */
+  width: 400px;
+}
+.check-out-head h1 {
+  margin: 0px;
+}
+.check-out-p-i {
+  /* border: 1px solid black; */
+  width: 600px;
+  margin: 0px 170px;
+  font-size: 14px;
+  padding-top: 20px;
+  color: black;
+}
+#p-i-adress {
+  margin: 0px;
+}
+
+.collapsible {
+  /* border: 1px solid black; */
+  width: 60px;
+  height: 0px;
+}
+
+#code-input {
+  height: 30px;
+  margin: 5px 10px 0px 15px;
+}
+#code-btn {
+  width: 50px;
+  height: 35px;
+  border-radius: 10px;
+  background-color: white;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+
+.place-order {
+  position: absolute;
+  border: 1px solid lightgrey;
+  width: 310px;
+  height: 390px;
+  top: 76px;
+  right: 61px;
+  padding: 20px;
+  border-radius: 10px;
+}
+#place-order-btn {
+  width: 250px;
+  height: 32px;
+  background-color: #ffd814;
+  border-radius: 19px;
+  border: none;
+  cursor: pointer;
+}
+.order-details {
+  display: flex;
+  justify-content: space-between;
+}
+.down-border {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 20px;
+}
+
+#float-price {
+  float: right;
+}
+
+.cost-div {
+  border-top: 1px solid lightgray;
+  width: 100%;
+  background-color: lightgray;
+  position: absolute;
+  height: 56px;
+  left: 0px;
+  font-size: 12px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 34px;
+}
+.cost-div p {
+  padding: 10px 20px;
+}
+.cost-div a {
+  text-decoration: none;
+  color: green;
+}
+.blue-text {
+  color: #007185;
+  text-decoration: none;
+}
+
+.collapsible {
+  margin: 20px 0px;
+}
+
+.Collapsible__contentInner {
+  border: 1px solid lightgray;
+  margin: 5px 90px;
+  width: 850px;
+  height: 580px;
+  padding: 20px;
+
+  border-radius: 20px;
+}
+
+.hidden-adress {
+  margin: 10px 0;
+}
+.hidden-adress h3 {
+  margin: 0px;
+  border-bottom: 1px solid lightgrey;
+  width: 850px;
+}
+.saved-adress {
+  display: flex;
+  margin: 7px;
+}
+.saved-adress p {
+  margin: 0px 0px 0px 5px;
+}
+
+#payment-input {
+  width: 250px;
+  height: 31px;
+  margin: 0px 15px;
+}
+#lightMargin {
+  margin-left: 25px;
+}
+.payment-img {
+  height: 56px;
+}

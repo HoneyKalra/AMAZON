@@ -1,0 +1,47 @@
+.sign-in-container {
+  width: 386px;
+  height: 290px;
+  border: 1px solid lightgrey;
+  border-radius: 7px;
+  margin: 7px auto;
+  padding: 15px 25px;
+  margin-bottom: 35px;
+  font-weight: bolder;
+}
+
+.continue-btn {
+  width: 386px;
+  height: 30px;
+  border-radius: 7px;
+  text-align: center;
+  border: none;
+  background-color: #c89411;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+span {
+  color: #0066c0;
+  margin-left: 3px;
+}
+hr {
+  width: 34.5%;
+  border: 0.5px solid grey;
+  height: 0.3px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.new-to-join {
+  width: 429px;
+  margin: auto;
+  display: flex;
+}
+.create-account-btn {
+  width: 432px;
+  height: 30px;
+  border-radius: 3px;
+  text-align: center;
+  border: none;
+  background-color: #e7e9ec;
+  display: block;
+  margin: 30px auto;
+}

@@ -1,0 +1,57 @@
+.Deals-container {
+  display: flex;
+  padding-left: 43px;
+  margin-right: 4px;
+  height: 670px;
+  background: #eeeeee;
+}
+.Deals-info {
+  height: 620px;
+  width: 340px;
+  background-color: white;
+  margin-right: 22px;
+  padding-left: 25px;
+}
+
+.Deal-img {
+  width: 100%;
+  height: 430px;
+  background: #dfddd3;
+  margin-bottom: 15px;
+  object-fit: fill;
+}
+
+.Deals-info {
+  width: 319px;
+  padding-top: 5px;
+  height: 600px;
+  border: 1px solid lightgrey;
+  margin-right: 56.5px;
+  background-color: white;
+  margin-top: 50px;
+}
+
+.Deal-img {
+  width: 90%;
+  height: 340px;
+  background: #dfddd3;
+  margin-bottom: 15px;
+}
+
+.Discount-info {
+  width: 145px;
+  height: 32px;
+  background-color: red;
+  color: white;
+  padding-top: 13px;
+  margin-left: 13px;
+  margin-right: 7px;
+  font-weight: 700px;
+}
+.Delivery {
+  margin-top: 13px;
+
+  color: #565959;
+  font-weight: 700;
+  margin-left: -171px;
+}
